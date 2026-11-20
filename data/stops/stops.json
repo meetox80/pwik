@@ -1,0 +1,4079 @@
+{
+ "stops": [
+  {
+   "pdf": "3-go Maja",
+   "key": "3 go maja",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    13,
+    14,
+    21
+   ],
+   "lines": [
+    "0",
+    "14",
+    "16",
+    "9"
+   ],
+   "dep": 96,
+   "platforms": [
+    {
+     "name": "3 Maja 01",
+     "lon": 22.69163,
+     "lat": 50.01435
+    },
+    {
+     "name": "3 Maja 05",
+     "lon": 22.693335,
+     "lat": 50.013832
+    }
+   ],
+   "match": "3 Maja 01",
+   "lon": 22.692483,
+   "lat": 50.014091,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Bandurskiego",
+   "key": "bandurskiego",
+   "pages": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "lines": [
+    "0"
+   ],
+   "dep": 79,
+   "platforms": [
+    {
+     "name": "Bandurskiego 01",
+     "lon": 22.671635,
+     "lat": 50.021834
+    },
+    {
+     "name": "Bandurskiego 02",
+     "lon": 22.671514,
+     "lat": 50.02173
+    }
+   ],
+   "cands": [
+    {
+     "name": "Bandurskiego 01",
+     "s": 1.0,
+     "lon": 22.671574,
+     "lat": 50.021782
+    },
+    {
+     "name": "Bandurskiego Dół 02",
+     "s": 0.854,
+     "lon": 22.662124,
+     "lat": 50.01995
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.333,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Sikorskiego 01",
+     "s": 0.304,
+     "lon": 22.682455,
+     "lat": 50.015783
+    },
+    {
+     "name": "Krasickiego",
+     "s": 0.304,
+     "lon": 22.495432,
+     "lat": 50.060224
+    }
+   ],
+   "match": "Bandurskiego 01",
+   "lon": 22.671574,
+   "lat": 50.021782,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Bandurskiego - Dół",
+   "key": "bandurskiego dol",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Bandurskiego Dół 02",
+     "lon": 22.662124,
+     "lat": 50.01995
+    }
+   ],
+   "cands": [
+    {
+     "name": "Bandurskiego Dół 02",
+     "s": 1.0,
+     "lon": 22.662124,
+     "lat": 50.01995
+    },
+    {
+     "name": "Bandurskiego 01",
+     "s": 0.854,
+     "lon": 22.671574,
+     "lat": 50.021782
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.286,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Kraszewskiego Rondo 02",
+     "s": 0.286,
+     "lon": 22.674624,
+     "lat": 50.023165
+    },
+    {
+     "name": "Sikorskiego 01",
+     "s": 0.259,
+     "lon": 22.682455,
+     "lat": 50.015783
+    }
+   ],
+   "match": "Bandurskiego Dół 02",
+   "lon": 22.662124,
+   "lat": 50.01995,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Batalionów Chłopskich I",
+   "key": "batalionow chlopskich i",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 19,
+   "platforms": [
+    {
+     "name": "ulica Batalionów Chłopskich",
+     "lon": 22.67039,
+     "lat": 50.04214
+    }
+   ],
+   "cands": [
+    {
+     "name": "Lotników I 01",
+     "s": 0.307,
+     "lon": 22.639148,
+     "lat": 50.021554
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.229,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Sanowa Noclegownia 01",
+     "s": 0.22,
+     "lon": 22.69974,
+     "lat": 50.020588
+    },
+    {
+     "name": "Stanowisko 1",
+     "s": 0.212,
+     "lon": 22.5508,
+     "lat": 50.044608
+    },
+    {
+     "name": "Stanowisko Flixbus",
+     "s": 0.195,
+     "lon": 22.67537,
+     "lat": 50.01153
+    }
+   ],
+   "match": "ulica Batalionów Chłopskich",
+   "score": 0.307,
+   "how": "placed",
+   "lon": 22.67039,
+   "lat": 50.04214,
+   "source": "street:batalionow chlopskich"
+  },
+  {
+   "pdf": "Batalionów Chłopskich II",
+   "key": "batalionow chlopskich ii",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "ulica Batalionów Chłopskich",
+     "lon": 22.669957,
+     "lat": 50.047567
+    }
+   ],
+   "cands": [
+    {
+     "name": "Lotników II 02",
+     "s": 0.307,
+     "lon": 22.640796,
+     "lat": 50.018367
+    },
+    {
+     "name": "Grodziszczańska II 05",
+     "s": 0.275,
+     "lon": 22.658349,
+     "lat": 50.024521
+    },
+    {
+     "name": "Radymno Jana Pawła II",
+     "s": 0.246,
+     "lon": 22.824465,
+     "lat": 49.944096
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.229,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Sanowa Noclegownia 01",
+     "s": 0.22,
+     "lon": 22.69974,
+     "lat": 50.020588
+    }
+   ],
+   "match": "ulica Batalionów Chłopskich",
+   "score": 0.307,
+   "how": "placed",
+   "lon": 22.669957,
+   "lat": 50.047567,
+   "source": "street:batalionow chlopskich"
+  },
+  {
+   "pdf": "Brodowicze",
+   "key": "brodowicze",
+   "pages": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lines": [
+    "8"
+   ],
+   "dep": 33,
+   "platforms": [
+    {
+     "name": "ulica Brodowicze",
+     "lon": 22.68175,
+     "lat": 50.04689
+    }
+   ],
+   "cands": [
+    {
+     "name": "Bystrowice",
+     "s": 0.35,
+     "lon": 22.572793,
+     "lat": 49.930734
+    },
+    {
+     "name": "Kidałowice",
+     "s": 0.3,
+     "lon": 22.662845,
+     "lat": 49.985692
+    },
+    {
+     "name": "Łowce",
+     "s": 0.267,
+     "lon": 22.73935,
+     "lat": 49.940347
+    },
+    {
+     "name": "Tyniowice",
+     "s": 0.263,
+     "lon": 22.566539,
+     "lat": 49.91862
+    },
+    {
+     "name": "Ciemięrzowice",
+     "s": 0.261,
+     "lon": 22.718185,
+     "lat": 49.898049
+    }
+   ],
+   "match": "ulica Brodowicze",
+   "score": 0.35,
+   "how": "placed",
+   "lon": 22.68175,
+   "lat": 50.04689,
+   "source": "street:brodowicze"
+  },
+  {
+   "pdf": "Centrum Przesiadkowe",
+   "key": "centrum przesiadkowe",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "lines": [
+    "0",
+    "10",
+    "14",
+    "15",
+    "16",
+    "8",
+    "9"
+   ],
+   "dep": 221,
+   "platforms": [
+    {
+     "name": "Centrum Przesiadkowe 01",
+     "lon": 22.677484,
+     "lat": 50.011146
+    },
+    {
+     "name": "Centrum Przesiadkowe 02",
+     "lon": 22.677615,
+     "lat": 50.011125
+    },
+    {
+     "name": "Centrum Przesiadkowe 03",
+     "lon": 22.677788,
+     "lat": 50.011101
+    },
+    {
+     "name": "Centrum Przesiadkowe 04",
+     "lon": 22.677947,
+     "lat": 50.011076
+    }
+   ],
+   "cands": [
+    {
+     "name": "Centrum Przesiadkowe 01",
+     "s": 1.0,
+     "lon": 22.677709,
+     "lat": 50.011112
+    },
+    {
+     "name": "Pruchnicka Centrum Handlowe 25",
+     "s": 0.402,
+     "lon": 22.676238,
+     "lat": 50.007631
+    },
+    {
+     "name": "Przeworsk MOK",
+     "s": 0.212,
+     "lon": 22.492869,
+     "lat": 50.060509
+    },
+    {
+     "name": "Pogodna Ogród Działkowy 02",
+     "s": 0.209,
+     "lon": 22.662682,
+     "lat": 50.028581
+    },
+    {
+     "name": "Misztale Ogród Działkowy 01",
+     "s": 0.205,
+     "lon": 22.683929,
+     "lat": 50.028896
+    }
+   ],
+   "match": "Centrum Przesiadkowe 01",
+   "lon": 22.677709,
+   "lat": 50.011112,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Długosza",
+   "key": "dlugosza",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Długosza",
+     "lon": 22.696076,
+     "lat": 50.024633
+    },
+    {
+     "name": "Długosza",
+     "lon": 22.696024,
+     "lat": 50.02476
+    }
+   ],
+   "cands": [
+    {
+     "name": "Długosza",
+     "s": 1.0,
+     "lon": 22.69605,
+     "lat": 50.024697
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.25,
+     "lon": 22.740079,
+     "lat": 49.897122
+    },
+    {
+     "name": "Skołoszów",
+     "s": 0.235,
+     "lon": 22.809433,
+     "lat": 49.932204
+    },
+    {
+     "name": "DPS Moszczny",
+     "s": 0.2,
+     "lon": 22.864974,
+     "lat": 49.999723
+    },
+    {
+     "name": "Bandurskiego 01",
+     "s": 0.2,
+     "lon": 22.671574,
+     "lat": 50.021782
+    }
+   ],
+   "match": "Długosza",
+   "lon": 22.69605,
+   "lat": 50.024697,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Dolnoleżajska",
+   "key": "dolnolezajska",
+   "pages": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lines": [
+    "8"
+   ],
+   "dep": 33,
+   "platforms": [
+    {
+     "name": "ulica Dolnoleżajska",
+     "lon": 22.67319,
+     "lat": 50.03773
+    }
+   ],
+   "cands": [
+    {
+     "name": "Olszynka",
+     "s": 0.238,
+     "lon": 22.740079,
+     "lat": 49.897122
+    },
+    {
+     "name": "Pełkińska 01",
+     "s": 0.227,
+     "lon": 22.671936,
+     "lat": 50.028324
+    },
+    {
+     "name": "Piekarska 01",
+     "s": 0.227,
+     "lon": 22.681077,
+     "lat": 50.014294
+    },
+    {
+     "name": "Maleniska 01",
+     "s": 0.227,
+     "lon": 22.648975,
+     "lat": 50.012009
+    },
+    {
+     "name": "Pogodna / Hajnusa 01",
+     "s": 0.214,
+     "lon": 22.668602,
+     "lat": 50.026739
+    }
+   ],
+   "match": "ulica Dolnoleżajska",
+   "score": 0.238,
+   "how": "placed",
+   "lon": 22.67319,
+   "lat": 50.03773,
+   "source": "street:dolnolezajska"
+  },
+  {
+   "pdf": "Dominikanie",
+   "key": "dominikanie",
+   "pages": [
+    9,
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 23,
+   "platforms": [
+    {
+     "name": "Jana Pawła II Dominikanie 03",
+     "lon": 22.667593,
+     "lat": 50.016261
+    },
+    {
+     "name": "Jana Pawła II Dominikanie 04",
+     "lon": 22.66749,
+     "lat": 50.01612
+    }
+   ],
+   "match": "Jana Pawła II Dominikanie 03",
+   "lon": 22.667541,
+   "lat": 50.016191,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Dominikanie - słupek",
+   "key": "dominikanie slupek",
+   "pages": [
+    3,
+    4
+   ],
+   "lines": [
+    "0"
+   ],
+   "dep": 4,
+   "platforms": [
+    {
+     "name": "Jana Pawła II Dominikanie 03",
+     "lon": 22.667593,
+     "lat": 50.016261
+    },
+    {
+     "name": "Jana Pawła II Dominikanie 04",
+     "lon": 22.66749,
+     "lat": 50.01612
+    }
+   ],
+   "match": "Jana Pawła II Dominikanie 03",
+   "lon": 22.667541,
+   "lat": 50.016191,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Flisacka",
+   "key": "flisacka",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Flisacka 01",
+     "lon": 22.696997,
+     "lat": 50.021189
+    },
+    {
+     "name": "Flisacka 02",
+     "lon": 22.697098,
+     "lat": 50.021461
+    }
+   ],
+   "cands": [
+    {
+     "name": "Flisacka 01",
+     "s": 1.0,
+     "lon": 22.697048,
+     "lat": 50.021325
+    },
+    {
+     "name": "Pełkińska 01",
+     "s": 0.294,
+     "lon": 22.671936,
+     "lat": 50.028324
+    },
+    {
+     "name": "Maleniska 01",
+     "s": 0.294,
+     "lon": 22.648975,
+     "lat": 50.012009
+    },
+    {
+     "name": "Rybacka 01",
+     "s": 0.267,
+     "lon": 22.687922,
+     "lat": 50.023357
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.25,
+     "lon": 22.740079,
+     "lat": 49.897122
+    }
+   ],
+   "match": "Flisacka 01",
+   "lon": 22.697048,
+   "lat": 50.021325,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Grodziszczańska - 2",
+   "key": "grodziszczanska 2",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Grodziszczańska II 05",
+     "lon": 22.658349,
+     "lat": 50.024521
+    }
+   ],
+   "match": "Grodziszczańska II 05",
+   "lon": 22.658349,
+   "lat": 50.024521,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Grodziszczańska - 3",
+   "key": "grodziszczanska 3",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Grodziszczańska III 01",
+     "lon": 22.65693,
+     "lat": 50.031746
+    }
+   ],
+   "match": "Grodziszczańska III 01",
+   "lon": 22.65693,
+   "lat": 50.031746,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Grodziszczańska - 4",
+   "key": "grodziszczanska 4",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Grodziszczańska IV 02",
+     "lon": 22.652996,
+     "lat": 50.037117
+    }
+   ],
+   "match": "Grodziszczańska IV 02",
+   "lon": 22.652996,
+   "lat": 50.037117,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Grodziszczańska - 5",
+   "key": "grodziszczanska 5",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Grodziszczańska V 03",
+     "lon": 22.654086,
+     "lat": 50.034646
+    }
+   ],
+   "match": "Grodziszczańska V 03",
+   "lon": 22.654086,
+   "lat": 50.034646,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Grodziszczańska - wiadukt",
+   "key": "grodziszczanska wiadukt",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Grodziszczańska Wiadukt 04",
+     "lon": 22.656578,
+     "lat": 50.030306
+    }
+   ],
+   "match": "Grodziszczańska Wiadukt 04",
+   "lon": 22.656578,
+   "lat": 50.030306,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Grunwaldzka",
+   "key": "grunwaldzka",
+   "pages": [
+    4,
+    6,
+    8,
+    9,
+    10,
+    12,
+    14,
+    16,
+    21
+   ],
+   "lines": [
+    "0",
+    "10",
+    "14",
+    "16",
+    "8",
+    "9"
+   ],
+   "dep": 73,
+   "platforms": [
+    {
+     "name": "Grunwaldzka 01",
+     "lon": 22.680498,
+     "lat": 50.01685
+    }
+   ],
+   "cands": [
+    {
+     "name": "Grunwaldzka 01",
+     "s": 1.0,
+     "lon": 22.680498,
+     "lat": 50.01685
+    },
+    {
+     "name": "Pruchnicka 06",
+     "s": 0.238,
+     "lon": 22.675076,
+     "lat": 50.005502
+    },
+    {
+     "name": "Rybacka 01",
+     "s": 0.222,
+     "lon": 22.687922,
+     "lat": 50.023357
+    },
+    {
+     "name": "Grodziszczańska III 01",
+     "s": 0.214,
+     "lon": 22.65693,
+     "lat": 50.031746
+    },
+    {
+     "name": "Grodziszczańska V 03",
+     "s": 0.214,
+     "lon": 22.654086,
+     "lat": 50.034646
+    }
+   ],
+   "match": "Grunwaldzka 01",
+   "lon": 22.680498,
+   "lat": 50.01685,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Huta",
+   "key": "huta",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    13,
+    21
+   ],
+   "lines": [
+    "0",
+    "14",
+    "16",
+    "9"
+   ],
+   "dep": 95,
+   "platforms": [
+    {
+     "name": "3 Maja Huta 04",
+     "lon": 22.714686,
+     "lat": 50.002542
+    },
+    {
+     "name": "3 Maja Huta 08",
+     "lon": 22.711829,
+     "lat": 50.004167
+    }
+   ],
+   "match": "3 Maja Huta 04",
+   "lon": 22.713258,
+   "lat": 50.003355,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Huta (do miasta)",
+   "key": "huta do miasta",
+   "pages": [
+    14
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 1,
+   "platforms": [
+    {
+     "name": "3 Maja Huta 04",
+     "lon": 22.714686,
+     "lat": 50.002542
+    },
+    {
+     "name": "3 Maja Huta 08",
+     "lon": 22.711829,
+     "lat": 50.004167
+    }
+   ],
+   "match": "3 Maja Huta 04",
+   "lon": 22.713258,
+   "lat": 50.003355,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Jan Pawła II",
+   "key": "jan pawla ii",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Jana Pawła II Starostwo 01",
+     "lon": 22.673647,
+     "lat": 50.015508
+    },
+    {
+     "name": "Jana Pawła II Starostwo 02",
+     "lon": 22.674943,
+     "lat": 50.015569
+    }
+   ],
+   "match": "Jana Pawła II Starostwo 01",
+   "lon": 22.674295,
+   "lat": 50.015538,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Jana Pawła II",
+   "key": "jana pawla ii",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    10
+   ],
+   "lines": [
+    "0",
+    "9"
+   ],
+   "dep": 102,
+   "platforms": [
+    {
+     "name": "Jana Pawła II Starostwo 01",
+     "lon": 22.673647,
+     "lat": 50.015508
+    },
+    {
+     "name": "Jana Pawła II Starostwo 02",
+     "lon": 22.674943,
+     "lat": 50.015569
+    }
+   ],
+   "match": "Jana Pawła II Starostwo 01",
+   "lon": 22.674295,
+   "lat": 50.015538,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Jana Pawła II Dominikanie",
+   "key": "jana pawla ii dominikanie",
+   "pages": [
+    17,
+    18,
+    19,
+    20
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 30,
+   "platforms": [
+    {
+     "name": "Jana Pawła II Dominikanie 03",
+     "lon": 22.667593,
+     "lat": 50.016261
+    },
+    {
+     "name": "Jana Pawła II Dominikanie 04",
+     "lon": 22.66749,
+     "lat": 50.01612
+    }
+   ],
+   "match": "Jana Pawła II Dominikanie 03",
+   "lon": 22.667541,
+   "lat": 50.016191,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Jana Pawła II Starostwo",
+   "key": "jana pawla ii starostwo",
+   "pages": [
+    17,
+    18,
+    19,
+    20
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 30,
+   "platforms": [
+    {
+     "name": "Jana Pawła II Starostwo 01",
+     "lon": 22.673647,
+     "lat": 50.015508
+    },
+    {
+     "name": "Jana Pawła II Starostwo 02",
+     "lon": 22.674943,
+     "lat": 50.015569
+    }
+   ],
+   "match": "Jana Pawła II Starostwo 01",
+   "lon": 22.674295,
+   "lat": 50.015538,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Jarlan",
+   "key": "jarlan",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    13,
+    14,
+    21
+   ],
+   "lines": [
+    "0",
+    "14",
+    "16",
+    "9"
+   ],
+   "dep": 96,
+   "platforms": [
+    {
+     "name": "3 Maja Jarlan 03",
+     "lon": 22.707855,
+     "lat": 50.005846
+    },
+    {
+     "name": "3 Maja Jarlan 07",
+     "lon": 22.706744,
+     "lat": 50.006624
+    }
+   ],
+   "match": "3 Maja Jarlan 03",
+   "lon": 22.707299,
+   "lat": 50.006235,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kamienna n/ż",
+   "key": "kamienna nz",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "ulica Kamienna",
+     "lon": 22.66585,
+     "lat": 50.05414
+    }
+   ],
+   "cands": [
+    {
+     "name": "Krakowska Cmentarz 01",
+     "s": 0.241,
+     "lon": 22.65871,
+     "lat": 50.019003
+    },
+    {
+     "name": "Sanowa Cmentarz 03",
+     "s": 0.231,
+     "lon": 22.713738,
+     "lat": 50.023443
+    },
+    {
+     "name": "Radymno Cmentarz",
+     "s": 0.222,
+     "lon": 22.82703,
+     "lat": 49.947753
+    },
+    {
+     "name": "Szczytniańska Cmentarz 01",
+     "s": 0.212,
+     "lon": 22.645111,
+     "lat": 50.016614
+    },
+    {
+     "name": "Wierzbna",
+     "s": 0.211,
+     "lon": 22.60521,
+     "lat": 50.032025
+    }
+   ],
+   "match": "ulica Kamienna",
+   "score": 0.241,
+   "how": "placed",
+   "lon": 22.66585,
+   "lat": 50.05414,
+   "source": "street:kamienna"
+  },
+  {
+   "pdf": "Kombatantów",
+   "key": "kombatantow",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    13,
+    14,
+    21
+   ],
+   "lines": [
+    "0",
+    "14",
+    "16",
+    "9"
+   ],
+   "dep": 96,
+   "platforms": [
+    {
+     "name": "3 Maja Osiedle Kombatanów 02",
+     "lon": 22.699358,
+     "lat": 50.010081
+    },
+    {
+     "name": "3 Maja Osiedle Kombatanów 06",
+     "lon": 22.698428,
+     "lat": 50.010854
+    }
+   ],
+   "match": "3 Maja Osiedle Kombatanów 02",
+   "lon": 22.698893,
+   "lat": 50.010468,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Konfederacka",
+   "key": "konfederacka",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    21
+   ],
+   "lines": [
+    "0",
+    "16"
+   ],
+   "dep": 86,
+   "platforms": [
+    {
+     "name": "Konfederacka 02",
+     "lon": 22.666913,
+     "lat": 50.020054
+    },
+    {
+     "name": "Konfederacka 04",
+     "lon": 22.667039,
+     "lat": 50.020114
+    }
+   ],
+   "cands": [
+    {
+     "name": "Konfederacka 02",
+     "s": 1.0,
+     "lon": 22.666976,
+     "lat": 50.020084
+    },
+    {
+     "name": "Konfederacka PZM 03",
+     "s": 0.854,
+     "lon": 22.668508,
+     "lat": 50.01661
+    },
+    {
+     "name": "Konfederacka / Skarbowskiego 01",
+     "s": 0.741,
+     "lon": 22.664934,
+     "lat": 50.024188
+    },
+    {
+     "name": "Rybacka 01",
+     "s": 0.263,
+     "lon": 22.687922,
+     "lat": 50.023357
+    },
+    {
+     "name": "Flisacka 01",
+     "s": 0.25,
+     "lon": 22.697048,
+     "lat": 50.021325
+    }
+   ],
+   "match": "Konfederacka 02",
+   "lon": 22.666976,
+   "lat": 50.020084,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Konfederacka k-c",
+   "key": "konfederacka k c",
+   "pages": [
+    1,
+    3,
+    4
+   ],
+   "lines": [
+    "0"
+   ],
+   "dep": 42,
+   "platforms": [
+    {
+     "name": "Konfederacka / Skarbowskiego 01",
+     "lon": 22.664934,
+     "lat": 50.024188
+    }
+   ],
+   "match": "Konfederacka / Skarbowskiego 01",
+   "lon": 22.664934,
+   "lat": 50.024188,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Konfederacka Koniec",
+   "key": "konfederacka koniec",
+   "pages": [
+    2
+   ],
+   "lines": [
+    "0"
+   ],
+   "dep": 16,
+   "platforms": [
+    {
+     "name": "ulica Konfederacka",
+     "lon": 22.66553,
+     "lat": 50.02297
+    }
+   ],
+   "match": "ulica Konfederacka",
+   "score": 0.0,
+   "how": "placed",
+   "cands": [],
+   "lon": 22.66553,
+   "lat": 50.02297,
+   "source": "street:konfederacka"
+  },
+  {
+   "pdf": "Kościół",
+   "key": "kosciol",
+   "pages": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lines": [
+    "8"
+   ],
+   "dep": 33,
+   "platforms": [
+    {
+     "name": "Kaplica pw. św. Teresy",
+     "lon": 22.676476,
+     "lat": 50.040016
+    }
+   ],
+   "match": "Kaplica pw. św. Teresy",
+   "score": 0.0,
+   "how": "placed",
+   "cands": [],
+   "lon": 22.676476,
+   "lat": 50.040016,
+   "source": "place_of_worship"
+  },
+  {
+   "pdf": "Kostków I",
+   "key": "kostkow i",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "miejscowość Kostków",
+     "lon": 22.655826,
+     "lat": 50.091815
+    }
+   ],
+   "cands": [
+    {
+     "name": "Lotników I 01",
+     "s": 0.535,
+     "lon": 22.639148,
+     "lat": 50.021554
+    },
+    {
+     "name": "Kostków Pętla 05",
+     "s": 0.53,
+     "lon": 22.647473,
+     "lat": 50.106386
+    },
+    {
+     "name": "Kostków Kościół 02",
+     "s": 0.5,
+     "lon": 22.641562,
+     "lat": 50.112005
+    },
+    {
+     "name": "Kostków Oczyszczalnia 02",
+     "s": 0.433,
+     "lon": 22.637629,
+     "lat": 50.115982
+    },
+    {
+     "name": "Ostrów",
+     "s": 0.333,
+     "lon": 22.790889,
+     "lat": 49.965907
+    }
+   ],
+   "match": "miejscowość Kostków",
+   "score": 0.535,
+   "how": "placed",
+   "lon": 22.655826,
+   "lat": 50.091815,
+   "source": "place:kostkow"
+  },
+  {
+   "pdf": "Kostków II",
+   "key": "kostkow ii",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "miejscowość Kostków",
+     "lon": 22.65128,
+     "lat": 50.09699
+    }
+   ],
+   "cands": [
+    {
+     "name": "Lotników II 02",
+     "s": 0.535,
+     "lon": 22.640796,
+     "lat": 50.018367
+    },
+    {
+     "name": "Kostków Pętla 05",
+     "s": 0.53,
+     "lon": 22.647473,
+     "lat": 50.106386
+    },
+    {
+     "name": "Kostków Kościół 02",
+     "s": 0.5,
+     "lon": 22.641562,
+     "lat": 50.112005
+    },
+    {
+     "name": "Kostków Oczyszczalnia 02",
+     "s": 0.433,
+     "lon": 22.637629,
+     "lat": 50.115982
+    },
+    {
+     "name": "Ostrów",
+     "s": 0.333,
+     "lon": 22.790889,
+     "lat": 49.965907
+    }
+   ],
+   "match": "miejscowość Kostków",
+   "score": 0.535,
+   "how": "placed",
+   "lon": 22.65128,
+   "lat": 50.09699,
+   "source": "place:kostkow+road"
+  },
+  {
+   "pdf": "Kostków kościół",
+   "key": "kostkow kosciol",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 6,
+   "platforms": [
+    {
+     "name": "Kostków Kościół 02",
+     "lon": 22.641486,
+     "lat": 50.111978
+    },
+    {
+     "name": "Kostków Kościół 07",
+     "lon": 22.641639,
+     "lat": 50.112032
+    }
+   ],
+   "match": "Kostków Kościół 02",
+   "lon": 22.641562,
+   "lat": 50.112005,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kostków n/ż",
+   "key": "kostkow nz",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "miejscowość Kostków",
+     "lon": 22.64868,
+     "lat": 50.10084
+    }
+   ],
+   "cands": [
+    {
+     "name": "Kostków Pętla 05",
+     "s": 0.514,
+     "lon": 22.647473,
+     "lat": 50.106386
+    },
+    {
+     "name": "Kostków Kościół 02",
+     "s": 0.487,
+     "lon": 22.641562,
+     "lat": 50.112005
+    },
+    {
+     "name": "Kostków Oczyszczalnia 02",
+     "s": 0.457,
+     "lon": 22.637629,
+     "lat": 50.115982
+    },
+    {
+     "name": "Ostrów",
+     "s": 0.312,
+     "lon": 22.790889,
+     "lat": 49.965907
+    },
+    {
+     "name": "Lotników II 02",
+     "s": 0.3,
+     "lon": 22.640796,
+     "lat": 50.018367
+    }
+   ],
+   "match": "miejscowość Kostków",
+   "score": 0.514,
+   "how": "placed",
+   "lon": 22.64868,
+   "lat": 50.10084,
+   "source": "place:kostkow+road"
+  },
+  {
+   "pdf": "Kostków oczyszczalnia",
+   "key": "kostkow oczyszczalnia",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 6,
+   "platforms": [
+    {
+     "name": "Kostków Oczyszczalnia 02",
+     "lon": 22.637629,
+     "lat": 50.115982
+    }
+   ],
+   "match": "Kostków Oczyszczalnia 02",
+   "lon": 22.637629,
+   "lat": 50.115982,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kostków pętla",
+   "key": "kostkow petla",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "Kostków Pętla 05",
+     "lon": 22.647623,
+     "lat": 50.106365
+    },
+    {
+     "name": "Kostków Pętla 06",
+     "lon": 22.647323,
+     "lat": 50.106407
+    }
+   ],
+   "match": "Kostków Pętla 05",
+   "lon": 22.647473,
+   "lat": 50.106386,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kr. Jadwigi",
+   "key": "kr jadwigi",
+   "pages": [
+    6,
+    8,
+    12,
+    14,
+    16
+   ],
+   "lines": [
+    "10",
+    "14",
+    "8"
+   ],
+   "dep": 41,
+   "platforms": [
+    {
+     "name": "Królowej Jadwigi 01",
+     "lon": 22.683617,
+     "lat": 50.0135
+    }
+   ],
+   "match": "Królowej Jadwigi 01",
+   "lon": 22.683617,
+   "lat": 50.0135,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Krakowska",
+   "key": "krakowska",
+   "pages": [
+    3,
+    4,
+    9,
+    10
+   ],
+   "lines": [
+    "0",
+    "9"
+   ],
+   "dep": 30,
+   "platforms": [
+    {
+     "name": "Krakowska Rondo 03",
+     "lon": 22.640755,
+     "lat": 50.0241
+    },
+    {
+     "name": "Krakowska Rondo 04",
+     "lon": 22.639412,
+     "lat": 50.024288
+    }
+   ],
+   "match": "Krakowska Rondo 03",
+   "lon": 22.640083,
+   "lat": 50.024194,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Krakowska Cm",
+   "key": "krakowska cm",
+   "pages": [
+    9,
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 22,
+   "platforms": [
+    {
+     "name": "Krakowska Cmentarz 01",
+     "lon": 22.65773,
+     "lat": 50.019354
+    },
+    {
+     "name": "Krakowska Cmentarz 06",
+     "lon": 22.659689,
+     "lat": 50.018652
+    }
+   ],
+   "match": "Krakowska Cmentarz 01",
+   "lon": 22.65871,
+   "lat": 50.019003,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Krakowska Cmentarz",
+   "key": "krakowska cmentarz",
+   "pages": [
+    3,
+    4,
+    18,
+    20
+   ],
+   "lines": [
+    "0",
+    "15"
+   ],
+   "dep": 23,
+   "platforms": [
+    {
+     "name": "Krakowska Cmentarz 01",
+     "lon": 22.65773,
+     "lat": 50.019354
+    },
+    {
+     "name": "Krakowska Cmentarz 06",
+     "lon": 22.659689,
+     "lat": 50.018652
+    }
+   ],
+   "cands": [
+    {
+     "name": "Krakowska Cmentarz 01",
+     "s": 1.0,
+     "lon": 22.65871,
+     "lat": 50.019003
+    },
+    {
+     "name": "Sanowa Cmentarz 03",
+     "s": 0.561,
+     "lon": 22.713738,
+     "lat": 50.023443
+    },
+    {
+     "name": "Radymno Cmentarz",
+     "s": 0.52,
+     "lon": 22.82703,
+     "lat": 49.947753
+    },
+    {
+     "name": "Krakowska Rondo 03",
+     "s": 0.5,
+     "lon": 22.640083,
+     "lat": 50.024194
+    },
+    {
+     "name": "Szczytniańska Cmentarz 01",
+     "s": 0.492,
+     "lon": 22.645111,
+     "lat": 50.016614
+    }
+   ],
+   "match": "Krakowska Cmentarz 01",
+   "lon": 22.65871,
+   "lat": 50.019003,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Krakowska Gazownia",
+   "key": "krakowska gazownia",
+   "pages": [
+    18,
+    20
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 15,
+   "platforms": [
+    {
+     "name": "Krakowska Tłocznia Gazu 02",
+     "lon": 22.648316,
+     "lat": 50.021951
+    },
+    {
+     "name": "Krakowska Tłocznia Gazu 05",
+     "lon": 22.647923,
+     "lat": 50.021955
+    }
+   ],
+   "match": "Krakowska Tłocznia Gazu 02",
+   "lon": 22.648119,
+   "lat": 50.021953,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Krakowska KZG",
+   "key": "krakowska kzg",
+   "pages": [
+    3,
+    4,
+    9,
+    10
+   ],
+   "lines": [
+    "0",
+    "9"
+   ],
+   "dep": 30,
+   "platforms": [
+    {
+     "name": "Krakowska Tłocznia Gazu 02",
+     "lon": 22.648316,
+     "lat": 50.021951
+    },
+    {
+     "name": "Krakowska Tłocznia Gazu 05",
+     "lon": 22.647923,
+     "lat": 50.021955
+    }
+   ],
+   "match": "Krakowska Tłocznia Gazu 02",
+   "lon": 22.648119,
+   "lat": 50.021953,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Krakowska Rondo",
+   "key": "krakowska rondo",
+   "pages": [
+    17,
+    18,
+    19,
+    20
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 30,
+   "platforms": [
+    {
+     "name": "Krakowska Rondo 03",
+     "lon": 22.640755,
+     "lat": 50.0241
+    },
+    {
+     "name": "Krakowska Rondo 04",
+     "lon": 22.639412,
+     "lat": 50.024288
+    }
+   ],
+   "match": "Krakowska Rondo 03",
+   "lon": 22.640083,
+   "lat": 50.024194,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kraszewskiego",
+   "key": "kraszewskiego",
+   "pages": [
+    5,
+    7,
+    11
+   ],
+   "lines": [
+    "10",
+    "8"
+   ],
+   "dep": 26,
+   "platforms": [
+    {
+     "name": "Kraszewskiego Park 01",
+     "lon": 22.677273,
+     "lat": 50.01779
+    }
+   ],
+   "match": "Kraszewskiego Park 01",
+   "lon": 22.677273,
+   "lat": 50.01779,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kraszewskiego - park",
+   "key": "kraszewskiego park",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 6,
+   "platforms": [
+    {
+     "name": "Kraszewskiego Park 01",
+     "lon": 22.677273,
+     "lat": 50.01779
+    }
+   ],
+   "match": "Kraszewskiego Park 01",
+   "lon": 22.677273,
+   "lat": 50.01779,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kraszewskiego - rondo",
+   "key": "kraszewskiego rondo",
+   "pages": [
+    2,
+    4,
+    5,
+    7,
+    11,
+    21
+   ],
+   "lines": [
+    "0",
+    "10",
+    "16",
+    "8"
+   ],
+   "dep": 73,
+   "platforms": [
+    {
+     "name": "Kraszewskiego Rondo 02",
+     "lon": 22.674624,
+     "lat": 50.023165
+    }
+   ],
+   "match": "Kraszewskiego Rondo 02",
+   "lon": 22.674624,
+   "lat": 50.023165,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Kruhel Skrzyżowanie",
+   "key": "kruhel skrzyzowanie",
+   "pages": [
+    5,
+    6,
+    7,
+    8,
+    11,
+    12
+   ],
+   "lines": [
+    "10",
+    "8"
+   ],
+   "dep": 53,
+   "platforms": [
+    {
+     "name": "Kruhel Pełkiński 01",
+     "lon": 22.671092,
+     "lat": 50.036699
+    },
+    {
+     "name": "Kruhel Pełkiński 02",
+     "lon": 22.671663,
+     "lat": 50.037103
+    }
+   ],
+   "match": "Kruhel Pełkiński 01",
+   "lon": 22.671377,
+   "lat": 50.036901,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Łazy",
+   "key": "lazy",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "miejscowość Łazy Kostkowskie",
+     "lon": 22.655332,
+     "lat": 50.084875
+    }
+   ],
+   "cands": [
+    {
+     "name": "Łazy kościół",
+     "s": 0.675,
+     "lon": 22.873453,
+     "lat": 49.991259
+    },
+    {
+     "name": "Osiedle Łazy",
+     "s": 0.675,
+     "lon": 22.85844,
+     "lat": 49.966726
+    },
+    {
+     "name": "Kaszyce",
+     "s": 0.273,
+     "lon": 22.740369,
+     "lat": 49.905081
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.25,
+     "lon": 22.740079,
+     "lat": 49.897122
+    },
+    {
+     "name": "Budowlanych",
+     "s": 0.2,
+     "lon": 22.841138,
+     "lat": 49.953804
+    }
+   ],
+   "match": "miejscowość Łazy Kostkowskie",
+   "score": 0.675,
+   "how": "placed",
+   "lon": 22.655332,
+   "lat": 50.084875,
+   "source": "place:lazy+road"
+  },
+  {
+   "pdf": "Łazy I",
+   "key": "lazy i",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "miejscowość Łazy Kostkowskie",
+     "lon": 22.65523,
+     "lat": 50.07902
+    }
+   ],
+   "cands": [
+    {
+     "name": "Łazy kościół",
+     "s": 0.444,
+     "lon": 22.873453,
+     "lat": 49.991259
+    },
+    {
+     "name": "Osiedle Łazy",
+     "s": 0.389,
+     "lon": 22.85844,
+     "lat": 49.966726
+    },
+    {
+     "name": "Lotników I 01",
+     "s": 0.354,
+     "lon": 22.639148,
+     "lat": 50.021554
+    },
+    {
+     "name": "Kaszyce",
+     "s": 0.231,
+     "lon": 22.740369,
+     "lat": 49.905081
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.214,
+     "lon": 22.740079,
+     "lat": 49.897122
+    }
+   ],
+   "match": "miejscowość Łazy Kostkowskie",
+   "score": 0.444,
+   "how": "placed",
+   "lon": 22.65523,
+   "lat": 50.07902,
+   "source": "place:lazy+road"
+  },
+  {
+   "pdf": "Łazy San",
+   "key": "lazy san",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 10,
+   "platforms": [
+    {
+     "name": "miejscowość Łazy Kostkowskie",
+     "lon": 22.65817,
+     "lat": 50.07459
+    }
+   ],
+   "cands": [
+    {
+     "name": "Łazy kościół",
+     "s": 0.467,
+     "lon": 22.873453,
+     "lat": 49.991259
+    },
+    {
+     "name": "Osiedle Łazy",
+     "s": 0.367,
+     "lon": 22.85844,
+     "lat": 49.966726
+    },
+    {
+     "name": "Zasanie",
+     "s": 0.267,
+     "lon": 22.856608,
+     "lat": 49.957745
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.25,
+     "lon": 22.740079,
+     "lat": 49.897122
+    },
+    {
+     "name": "Gorliczyńska Skrzyżowanie",
+     "s": 0.212,
+     "lon": 22.490812,
+     "lat": 50.065402
+    }
+   ],
+   "match": "miejscowość Łazy Kostkowskie",
+   "score": 0.467,
+   "how": "placed",
+   "lon": 22.65817,
+   "lat": 50.07459,
+   "source": "place:lazy+road"
+  },
+  {
+   "pdf": "Łazy Szkoła",
+   "key": "lazy szkola",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "Szkoła Podstawowa Nr 9",
+     "lon": 22.655632,
+     "lat": 50.071769
+    }
+   ],
+   "cands": [
+    {
+     "name": "Łazy kościół",
+     "s": 0.514,
+     "lon": 22.873453,
+     "lat": 49.991259
+    },
+    {
+     "name": "Osiedle Łazy",
+     "s": 0.341,
+     "lon": 22.85844,
+     "lat": 49.966726
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.263,
+     "lon": 22.740079,
+     "lat": 49.897122
+    },
+    {
+     "name": "Zamkowa 01",
+     "s": 0.222,
+     "lon": 22.691375,
+     "lat": 50.018786
+    },
+    {
+     "name": "Gorliczyńska Skrzyżowanie",
+     "s": 0.222,
+     "lon": 22.490812,
+     "lat": 50.065402
+    }
+   ],
+   "match": "Szkoła Podstawowa Nr 9",
+   "score": 0.514,
+   "how": "placed",
+   "lon": 22.655632,
+   "lat": 50.071769,
+   "source": "school"
+  },
+  {
+   "pdf": "Lipowa",
+   "key": "lipowa",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "ulica Lipowa",
+     "lon": 22.653742,
+     "lat": 50.065353
+    }
+   ],
+   "cands": [
+    {
+     "name": "Łowce",
+     "s": 0.273,
+     "lon": 22.73935,
+     "lat": 49.940347
+    },
+    {
+     "name": "Lotników II 02",
+     "s": 0.25,
+     "lon": 22.640796,
+     "lat": 50.018367
+    },
+    {
+     "name": "Lotników I 01",
+     "s": 0.25,
+     "lon": 22.639148,
+     "lat": 50.021554
+    },
+    {
+     "name": "Słowackiego 01",
+     "s": 0.235,
+     "lon": 22.678119,
+     "lat": 50.014289
+    },
+    {
+     "name": "Zamkowa 01",
+     "s": 0.231,
+     "lon": 22.691375,
+     "lat": 50.018786
+    }
+   ],
+   "match": "ulica Lipowa",
+   "score": 0.273,
+   "how": "placed",
+   "lon": 22.653742,
+   "lat": 50.065353,
+   "source": "street:lipowa"
+  },
+  {
+   "pdf": "Lotników 1",
+   "key": "lotnikow 1",
+   "pages": [
+    9,
+    10,
+    17,
+    19
+   ],
+   "lines": [
+    "15",
+    "9"
+   ],
+   "dep": 37,
+   "platforms": [
+    {
+     "name": "Lotników I 01",
+     "lon": 22.639148,
+     "lat": 50.021554
+    }
+   ],
+   "match": "Lotników I 01",
+   "lon": 22.639148,
+   "lat": 50.021554,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Lotników 2",
+   "key": "lotnikow 2",
+   "pages": [
+    9,
+    10,
+    17,
+    19
+   ],
+   "lines": [
+    "15",
+    "9"
+   ],
+   "dep": 37,
+   "platforms": [
+    {
+     "name": "Lotników II 02",
+     "lon": 22.640796,
+     "lat": 50.018367
+    }
+   ],
+   "match": "Lotników II 02",
+   "lon": 22.640796,
+   "lat": 50.018367,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Maleniska 1",
+   "key": "maleniska 1",
+   "pages": [
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 6,
+   "platforms": [
+    {
+     "name": "Maleniska 01",
+     "lon": 22.648975,
+     "lat": 50.012009
+    }
+   ],
+   "match": "Maleniska 01",
+   "lon": 22.648975,
+   "lat": 50.012009,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Maleniska 2",
+   "key": "maleniska 2",
+   "pages": [
+    9,
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 22,
+   "platforms": [
+    {
+     "name": "Maleniska Rondo 02",
+     "lon": 22.644589,
+     "lat": 50.01417
+    }
+   ],
+   "match": "Maleniska Rondo 02",
+   "lon": 22.644589,
+   "lat": 50.01417,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Maleniska1",
+   "key": "maleniska1",
+   "pages": [
+    9
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 16,
+   "platforms": [
+    {
+     "name": "Maleniska 01",
+     "lon": 22.648975,
+     "lat": 50.012009
+    }
+   ],
+   "match": "Maleniska 01",
+   "lon": 22.648975,
+   "lat": 50.012009,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Misztale",
+   "key": "misztale",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Misztale / Wodna 01",
+     "lon": 22.6896,
+     "lat": 50.037825
+    },
+    {
+     "name": "Misztale / Wodna 02",
+     "lon": 22.68948,
+     "lat": 50.037686
+    }
+   ],
+   "match": "Misztale / Wodna 01",
+   "lon": 22.68954,
+   "lat": 50.037756,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Misztale Działki",
+   "key": "misztale dzialki",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Misztale Ogród Działkowy 01",
+     "lon": 22.683856,
+     "lat": 50.028934
+    },
+    {
+     "name": "Misztale Ogród Działkowy 04",
+     "lon": 22.684003,
+     "lat": 50.028857
+    }
+   ],
+   "match": "Misztale Ogród Działkowy 01",
+   "lon": 22.683929,
+   "lat": 50.028896,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Misztale Wiadukt",
+   "key": "misztale wiadukt",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Misztale Wiadukt 01",
+     "lon": 22.685357,
+     "lat": 50.033146
+    },
+    {
+     "name": "Misztale Wiadukt 04",
+     "lon": 22.685225,
+     "lat": 50.03321
+    }
+   ],
+   "cands": [
+    {
+     "name": "Misztale Wiadukt 01",
+     "s": 1.0,
+     "lon": 22.685291,
+     "lat": 50.033178
+    },
+    {
+     "name": "Misztale 02",
+     "s": 0.758,
+     "lon": 22.686813,
+     "lat": 50.036852
+    },
+    {
+     "name": "Misztale / Wodna 01",
+     "s": 0.533,
+     "lon": 22.68954,
+     "lat": 50.037756
+    },
+    {
+     "name": "Misztale Pętla 03",
+     "s": 0.5,
+     "lon": 22.695937,
+     "lat": 50.038645
+    },
+    {
+     "name": "Szczytniańska Wiadukt 02",
+     "s": 0.491,
+     "lon": 22.653666,
+     "lat": 50.015684
+    }
+   ],
+   "match": "Misztale Wiadukt 01",
+   "lon": 22.685291,
+   "lat": 50.033178,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Okrzei",
+   "key": "okrzei",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Okrzei 02",
+     "lon": 22.683717,
+     "lat": 50.023437
+    },
+    {
+     "name": "Okrzei 03",
+     "lon": 22.68379,
+     "lat": 50.023362
+    }
+   ],
+   "cands": [
+    {
+     "name": "Okrzei 02",
+     "s": 1.0,
+     "lon": 22.683754,
+     "lat": 50.023399
+    },
+    {
+     "name": "Mokra",
+     "s": 0.273,
+     "lon": 22.631615,
+     "lat": 49.972379
+    },
+    {
+     "name": "Roźwienica",
+     "s": 0.25,
+     "lon": 22.59414,
+     "lat": 49.952418
+    },
+    {
+     "name": "Kółko rolnicze",
+     "s": 0.25,
+     "lon": 22.566482,
+     "lat": 50.092409
+    },
+    {
+     "name": "Kaszyce",
+     "s": 0.231,
+     "lon": 22.740369,
+     "lat": 49.905081
+    }
+   ],
+   "match": "Okrzei 02",
+   "lon": 22.683754,
+   "lat": 50.023399,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Osada skrzyżowanie",
+   "key": "osada skrzyzowanie",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 6,
+   "platforms": [
+    {
+     "name": "najbliższa ulica: Księdza Józefa Świerczka",
+     "lon": 22.63888,
+     "lat": 50.11733
+    }
+   ],
+   "cands": [
+    {
+     "name": "Gorliczyńska Skrzyżowanie",
+     "s": 0.539,
+     "lon": 22.490812,
+     "lat": 50.065402
+    },
+    {
+     "name": "Leżachów Osada Świetlica 08",
+     "s": 0.363,
+     "lon": 22.626941,
+     "lat": 50.127685
+    },
+    {
+     "name": "Osiedle Skarbowskiego 01",
+     "s": 0.282,
+     "lon": 22.669789,
+     "lat": 50.025463
+    },
+    {
+     "name": "Konfederacka / Skarbowskiego 01",
+     "s": 0.25,
+     "lon": 22.664934,
+     "lat": 50.024188
+    },
+    {
+     "name": "Mokra - Jankowice",
+     "s": 0.242,
+     "lon": 22.635717,
+     "lat": 49.973808
+    }
+   ],
+   "match": "najbliższa ulica: Księdza Józefa Świerczka",
+   "score": 0.539,
+   "how": "placed",
+   "lon": 22.63888,
+   "lat": 50.11733,
+   "source": "road"
+  },
+  {
+   "pdf": "P.Z. Mot",
+   "key": "p z mot",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    21
+   ],
+   "lines": [
+    "0",
+    "16"
+   ],
+   "dep": 86,
+   "platforms": [
+    {
+     "name": "Konfederacka PZM 03",
+     "lon": 22.668382,
+     "lat": 50.01661
+    },
+    {
+     "name": "Konfederacka PZM 05",
+     "lon": 22.668634,
+     "lat": 50.01661
+    }
+   ],
+   "match": "Konfederacka PZM 03",
+   "lon": 22.668508,
+   "lat": 50.01661,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "P.Z.Z",
+   "key": "p z z",
+   "pages": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "lines": [
+    "0"
+   ],
+   "dep": 76,
+   "platforms": [
+    {
+     "name": "Zbożowa PZZ 01",
+     "lon": 22.718767,
+     "lat": 49.999588
+    }
+   ],
+   "match": "Zbożowa PZZ 01",
+   "lon": 22.718767,
+   "lat": 49.999588,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Pełkińska",
+   "key": "pelkinska",
+   "pages": [
+    5,
+    6,
+    7,
+    8,
+    11,
+    12
+   ],
+   "lines": [
+    "10",
+    "8"
+   ],
+   "dep": 53,
+   "platforms": [
+    {
+     "name": "Pełkińska 01",
+     "lon": 22.672449,
+     "lat": 50.027808
+    },
+    {
+     "name": "Pełkińska 02",
+     "lon": 22.671422,
+     "lat": 50.028841
+    }
+   ],
+   "cands": [
+    {
+     "name": "Pełkińska 01",
+     "s": 1.0,
+     "lon": 22.671936,
+     "lat": 50.028324
+    },
+    {
+     "name": "Pełkińska Rondo 03",
+     "s": 0.8,
+     "lon": 22.675797,
+     "lat": 50.023105
+    },
+    {
+     "name": "Piekarska 01",
+     "s": 0.333,
+     "lon": 22.681077,
+     "lat": 50.014294
+    },
+    {
+     "name": "Kruhel Pełkiński 01",
+     "s": 0.32,
+     "lon": 22.671377,
+     "lat": 50.036901
+    },
+    {
+     "name": "Flisacka 01",
+     "s": 0.294,
+     "lon": 22.697048,
+     "lat": 50.021325
+    }
+   ],
+   "match": "Pełkińska 01",
+   "lon": 22.671936,
+   "lat": 50.028324,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Pełkińska Stacja Paliw",
+   "key": "pelkinska stacja paliw",
+   "pages": [
+    6,
+    8,
+    12
+   ],
+   "lines": [
+    "10",
+    "8"
+   ],
+   "dep": 27,
+   "platforms": [
+    {
+     "name": "Pełkińska Rondo 03",
+     "lon": 22.675797,
+     "lat": 50.023105
+    }
+   ],
+   "match": "Pełkińska Rondo 03",
+   "lon": 22.675797,
+   "lat": 50.023105,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Piłsudskiego",
+   "key": "pilsudskiego",
+   "pages": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "lines": [
+    "0"
+   ],
+   "dep": 79,
+   "platforms": [
+    {
+     "name": "Osiedle Piłsudskiego 01",
+     "lon": 22.668892,
+     "lat": 50.023532
+    }
+   ],
+   "match": "Osiedle Piłsudskiego 01",
+   "lon": 22.668892,
+   "lat": 50.023532,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Pogodna - Hajnusa",
+   "key": "pogodna hajnusa",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Pogodna / Hajnusa 01",
+     "lon": 22.668602,
+     "lat": 50.026739
+    }
+   ],
+   "match": "Pogodna / Hajnusa 01",
+   "lon": 22.668602,
+   "lat": 50.026739,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Pogodna - Ogródki",
+   "key": "pogodna ogrodki",
+   "pages": [
+    21
+   ],
+   "lines": [
+    "16"
+   ],
+   "dep": 7,
+   "platforms": [
+    {
+     "name": "Pogodna Ogród Działkowy 02",
+     "lon": 22.662682,
+     "lat": 50.028581
+    }
+   ],
+   "match": "Pogodna Ogród Działkowy 02",
+   "lon": 22.662682,
+   "lat": 50.028581,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Poniatowskiego",
+   "key": "poniatowskiego",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "lines": [
+    "0",
+    "10",
+    "14",
+    "15",
+    "16",
+    "8",
+    "9"
+   ],
+   "dep": 186,
+   "platforms": [
+    {
+     "name": "Poniatowskiego 01",
+     "lon": 22.683387,
+     "lat": 50.012832
+    },
+    {
+     "name": "Poniatowskiego 02",
+     "lon": 22.683969,
+     "lat": 50.012885
+    }
+   ],
+   "cands": [
+    {
+     "name": "Poniatowskiego 01",
+     "s": 1.0,
+     "lon": 22.683678,
+     "lat": 50.012859
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.346,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Osiedle Skarbowskiego 01",
+     "s": 0.314,
+     "lon": 22.669789,
+     "lat": 50.025463
+    },
+    {
+     "name": "Sikorskiego 01",
+     "s": 0.28,
+     "lon": 22.682455,
+     "lat": 50.015783
+    },
+    {
+     "name": "Słowackiego 01",
+     "s": 0.28,
+     "lon": 22.678119,
+     "lat": 50.014289
+    }
+   ],
+   "match": "Poniatowskiego 01",
+   "lon": 22.683678,
+   "lat": 50.012859,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Pruchnicka 1",
+   "key": "pruchnicka 1",
+   "pages": [
+    9,
+    10,
+    21
+   ],
+   "lines": [
+    "16",
+    "9"
+   ],
+   "dep": 32,
+   "platforms": [
+    {
+     "name": "Pruchnicka Akademia 04",
+     "lon": 22.674059,
+     "lat": 50.010195
+    },
+    {
+     "name": "Pruchnicka Akademia 27",
+     "lon": 22.674235,
+     "lat": 50.010409
+    }
+   ],
+   "match": "Pruchnicka Akademia 04",
+   "lon": 22.674147,
+   "lat": 50.010302,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Pruchnicka 2",
+   "key": "pruchnicka 2",
+   "pages": [
+    9,
+    10,
+    21
+   ],
+   "lines": [
+    "16",
+    "9"
+   ],
+   "dep": 32,
+   "platforms": [
+    {
+     "name": "Pruchnicka Osiedle 06",
+     "lon": 22.672185,
+     "lat": 50.001234
+    },
+    {
+     "name": "Pruchnicka Osiedle 23",
+     "lon": 22.672828,
+     "lat": 50.001671
+    }
+   ],
+   "match": "Pruchnicka Osiedle 06",
+   "lon": 22.672506,
+   "lat": 50.001452,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Pruchnicka 3",
+   "key": "pruchnicka 3",
+   "pages": [
+    9,
+    10,
+    21
+   ],
+   "lines": [
+    "16",
+    "9"
+   ],
+   "dep": 32,
+   "platforms": [
+    {
+     "name": "Pruchnicka Centrum Handlowe 25",
+     "lon": 22.676238,
+     "lat": 50.007631
+    }
+   ],
+   "match": "Pruchnicka Centrum Handlowe 25",
+   "lon": 22.676238,
+   "lat": 50.007631,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "PZZ",
+   "key": "pzz",
+   "pages": [
+    9,
+    21
+   ],
+   "lines": [
+    "16",
+    "9"
+   ],
+   "dep": 18,
+   "platforms": [
+    {
+     "name": "Zbożowa PZZ 01",
+     "lon": 22.718767,
+     "lat": 49.999588
+    }
+   ],
+   "match": "Zbożowa PZZ 01",
+   "lon": 22.718767,
+   "lat": 49.999588,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Rybacka 1",
+   "key": "rybacka 1",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Rybacka 02",
+     "lon": 22.685649,
+     "lat": 50.023139
+    },
+    {
+     "name": "Rybacka 04",
+     "lon": 22.685993,
+     "lat": 50.023222
+    }
+   ],
+   "match": "Rybacka 02",
+   "lon": 22.685821,
+   "lat": 50.02318,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Rybacka 2",
+   "key": "rybacka 2",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 28,
+   "platforms": [
+    {
+     "name": "Rybacka 01",
+     "lon": 22.689956,
+     "lat": 50.023569
+    },
+    {
+     "name": "Rybacka 03",
+     "lon": 22.690089,
+     "lat": 50.023499
+    }
+   ],
+   "match": "Rybacka 01",
+   "lon": 22.690022,
+   "lat": 50.023534,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Sanowa Bulwary",
+   "key": "sanowa bulwary",
+   "pages": [
+    17,
+    18,
+    19,
+    20
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 34,
+   "platforms": [
+    {
+     "name": "Sanowa Bulwary 02",
+     "lon": 22.70855,
+     "lat": 50.020945
+    },
+    {
+     "name": "Sanowa Bulwary 05",
+     "lon": 22.707484,
+     "lat": 50.020995
+    }
+   ],
+   "match": "Sanowa Bulwary 02",
+   "lon": 22.708017,
+   "lat": 50.02097,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Sanowa Cmentarz",
+   "key": "sanowa cmentarz",
+   "pages": [
+    17,
+    18,
+    19,
+    20
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 34,
+   "platforms": [
+    {
+     "name": "Sanowa Cmentarz 03",
+     "lon": 22.714218,
+     "lat": 50.023831
+    },
+    {
+     "name": "Sanowa Cmentarz 04",
+     "lon": 22.713257,
+     "lat": 50.023055
+    }
+   ],
+   "match": "Sanowa Cmentarz 03",
+   "lon": 22.713738,
+   "lat": 50.023443,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Sanowa Cmentarz (do miasta)",
+   "key": "sanowa cmentarz do miasta",
+   "pages": [
+    17,
+    19
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 17,
+   "platforms": [
+    {
+     "name": "Sanowa Cmentarz 03",
+     "lon": 22.714218,
+     "lat": 50.023831
+    },
+    {
+     "name": "Sanowa Cmentarz 04",
+     "lon": 22.713257,
+     "lat": 50.023055
+    }
+   ],
+   "match": "Sanowa Cmentarz 03",
+   "lon": 22.713738,
+   "lat": 50.023443,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Sanowa Noclegownia",
+   "key": "sanowa noclegownia",
+   "pages": [
+    17,
+    18,
+    19,
+    20
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 34,
+   "platforms": [
+    {
+     "name": "Sanowa Noclegownia 01",
+     "lon": 22.700276,
+     "lat": 50.020523
+    },
+    {
+     "name": "Sanowa Noclegownia 06",
+     "lon": 22.699204,
+     "lat": 50.020653
+    }
+   ],
+   "match": "Sanowa Noclegownia 01",
+   "lon": 22.69974,
+   "lat": 50.020588,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Sikorskiego",
+   "key": "sikorskiego",
+   "pages": [
+    13,
+    15,
+    18,
+    20
+   ],
+   "lines": [
+    "14",
+    "15"
+   ],
+   "dep": 26,
+   "platforms": [
+    {
+     "name": "Sikorskiego 01",
+     "lon": 22.682455,
+     "lat": 50.015783
+    }
+   ],
+   "cands": [
+    {
+     "name": "Sikorskiego 01",
+     "s": 1.0,
+     "lon": 22.682455,
+     "lat": 50.015783
+    },
+    {
+     "name": "Poniatowskiego 01",
+     "s": 0.32,
+     "lon": 22.683678,
+     "lat": 50.012859
+    },
+    {
+     "name": "Słowackiego 01",
+     "s": 0.318,
+     "lon": 22.678119,
+     "lat": 50.014289
+    },
+    {
+     "name": "Krasickiego",
+     "s": 0.318,
+     "lon": 22.495432,
+     "lat": 50.060224
+    },
+    {
+     "name": "Osiedle Skarbowskiego 01",
+     "s": 0.312,
+     "lon": 22.669789,
+     "lat": 50.025463
+    }
+   ],
+   "match": "Sikorskiego 01",
+   "lon": 22.682455,
+   "lat": 50.015783,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Skarbowskiego",
+   "key": "skarbowskiego",
+   "pages": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "lines": [
+    "0"
+   ],
+   "dep": 79,
+   "platforms": [
+    {
+     "name": "Osiedle Skarbowskiego 01",
+     "lon": 22.669737,
+     "lat": 50.025387
+    },
+    {
+     "name": "Osiedle Skarbowskiego 02",
+     "lon": 22.669841,
+     "lat": 50.025538
+    }
+   ],
+   "match": "Osiedle Skarbowskiego 01",
+   "lon": 22.669789,
+   "lat": 50.025463,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Słowackiego",
+   "key": "slowackiego",
+   "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "lines": [
+    "0",
+    "10",
+    "14",
+    "15",
+    "16",
+    "8"
+   ],
+   "dep": 192,
+   "platforms": [
+    {
+     "name": "Słowackiego 01",
+     "lon": 22.678249,
+     "lat": 50.014281
+    },
+    {
+     "name": "Słowackiego 02",
+     "lon": 22.677989,
+     "lat": 50.014298
+    }
+   ],
+   "cands": [
+    {
+     "name": "Słowackiego 01",
+     "s": 1.0,
+     "lon": 22.678119,
+     "lat": 50.014289
+    },
+    {
+     "name": "Sikorskiego 01",
+     "s": 0.318,
+     "lon": 22.682455,
+     "lat": 50.015783
+    },
+    {
+     "name": "Krasickiego",
+     "s": 0.318,
+     "lon": 22.495432,
+     "lat": 50.060224
+    },
+    {
+     "name": "Łowce",
+     "s": 0.312,
+     "lon": 22.73935,
+     "lat": 49.940347
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.304,
+     "lon": 22.69115,
+     "lat": 50.018493
+    }
+   ],
+   "match": "Słowackiego 01",
+   "lon": 22.678119,
+   "lat": 50.014289,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Stawki",
+   "key": "stawki",
+   "pages": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lines": [
+    "8"
+   ],
+   "dep": 33,
+   "platforms": [
+    {
+     "name": "ulica Stawki",
+     "lon": 22.67841,
+     "lat": 50.05539
+    }
+   ],
+   "cands": [
+    {
+     "name": "Stanowisko 1",
+     "s": 0.312,
+     "lon": 22.5508,
+     "lat": 50.044608
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.278,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Bystrowice",
+     "s": 0.25,
+     "lon": 22.572793,
+     "lat": 49.930734
+    },
+    {
+     "name": "Ostrów",
+     "s": 0.25,
+     "lon": 22.790889,
+     "lat": 49.965907
+    },
+    {
+     "name": "Stanowisko Flixbus",
+     "s": 0.25,
+     "lon": 22.67537,
+     "lat": 50.01153
+    }
+   ],
+   "match": "ulica Stawki",
+   "score": 0.312,
+   "how": "placed",
+   "lon": 22.67841,
+   "lat": 50.05539,
+   "source": "street:stawki"
+  },
+  {
+   "pdf": "Stawki I",
+   "key": "stawki i",
+   "pages": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lines": [
+    "8"
+   ],
+   "dep": 33,
+   "platforms": [
+    {
+     "name": "ulica Stawki",
+     "lon": 22.677201,
+     "lat": 50.054479
+    }
+   ],
+   "cands": [
+    {
+     "name": "Lotników I 01",
+     "s": 0.389,
+     "lon": 22.639148,
+     "lat": 50.021554
+    },
+    {
+     "name": "Stanowisko 1",
+     "s": 0.278,
+     "lon": 22.5508,
+     "lat": 50.044608
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.25,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Stanowisko Flixbus",
+     "s": 0.231,
+     "lon": 22.67537,
+     "lat": 50.01153
+    },
+    {
+     "name": "Bystrowice",
+     "s": 0.222,
+     "lon": 22.572793,
+     "lat": 49.930734
+    }
+   ],
+   "match": "ulica Stawki",
+   "score": 0.389,
+   "how": "placed",
+   "lon": 22.677201,
+   "lat": 50.054479,
+   "source": "street:stawki"
+  },
+  {
+   "pdf": "Stawki K-C",
+   "key": "stawki k c",
+   "pages": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lines": [
+    "8"
+   ],
+   "dep": 33,
+   "platforms": [
+    {
+     "name": "ulica Stawki",
+     "lon": 22.679571,
+     "lat": 50.056646
+    }
+   ],
+   "cands": [
+    {
+     "name": "Bystrowice",
+     "s": 0.25,
+     "lon": 22.572793,
+     "lat": 49.930734
+    },
+    {
+     "name": "Stanowisko 1",
+     "s": 0.25,
+     "lon": 22.5508,
+     "lat": 50.044608
+    },
+    {
+     "name": "Kostków Kościół 02",
+     "s": 0.24,
+     "lon": 22.641562,
+     "lat": 50.112005
+    },
+    {
+     "name": "Tarnowskiego 01",
+     "s": 0.227,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Kraszewskiego Park 01",
+     "s": 0.214,
+     "lon": 22.677273,
+     "lat": 50.01779
+    }
+   ],
+   "match": "ulica Stawki",
+   "score": 0.25,
+   "how": "placed",
+   "lon": 22.679571,
+   "lat": 50.056646,
+   "source": "street:stawki"
+  },
+  {
+   "pdf": "Strzelecka 1",
+   "key": "strzelecka 1",
+   "pages": [
+    9,
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 22,
+   "platforms": [
+    {
+     "name": "Strzelecka / Siemieńskiego 01",
+     "lon": 22.661071,
+     "lat": 50.005805
+    }
+   ],
+   "match": "Strzelecka / Siemieńskiego 01",
+   "lon": 22.661071,
+   "lat": 50.005805,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Strzelecka 2",
+   "key": "strzelecka 2",
+   "pages": [
+    9,
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 22,
+   "platforms": [
+    {
+     "name": "Strzelecka / Limanowskiego 02",
+     "lon": 22.664592,
+     "lat": 50.003988
+    }
+   ],
+   "match": "Strzelecka / Limanowskiego 02",
+   "lon": 22.664592,
+   "lat": 50.003988,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Strzelecka 3",
+   "key": "strzelecka 3",
+   "pages": [
+    9,
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 22,
+   "platforms": [
+    {
+     "name": "Strzelecka / Traugutta 03",
+     "lon": 22.668877,
+     "lat": 50.001757
+    }
+   ],
+   "match": "Strzelecka / Traugutta 03",
+   "lon": 22.668877,
+   "lat": 50.001757,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Szczytniańska Cmentarz",
+   "key": "szczytnianska cmentarz",
+   "pages": [
+    9,
+    10
+   ],
+   "lines": [
+    "9"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "Szczytniańska Cmentarz 01",
+     "lon": 22.645111,
+     "lat": 50.016614
+    }
+   ],
+   "cands": [
+    {
+     "name": "Szczytniańska Cmentarz 01",
+     "s": 1.0,
+     "lon": 22.645111,
+     "lat": 50.016614
+    },
+    {
+     "name": "Szczytniańska Rondo 01",
+     "s": 0.533,
+     "lon": 22.645207,
+     "lat": 50.01464
+    },
+    {
+     "name": "Sanowa Cmentarz 03",
+     "s": 0.518,
+     "lon": 22.713738,
+     "lat": 50.023443
+    },
+    {
+     "name": "Szczytniańska Wiadukt 02",
+     "s": 0.516,
+     "lon": 22.653666,
+     "lat": 50.015684
+    },
+    {
+     "name": "Szczytniańska / Krakowska 03",
+     "s": 0.5,
+     "lon": 22.662744,
+     "lat": 50.017619
+    }
+   ],
+   "match": "Szczytniańska Cmentarz 01",
+   "lon": 22.645111,
+   "lat": 50.016614,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Szczytniańska Krakowska",
+   "key": "szczytnianska krakowska",
+   "pages": [
+    17,
+    19
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 15,
+   "platforms": [
+    {
+     "name": "Szczytniańska / Krakowska 03",
+     "lon": 22.662744,
+     "lat": 50.017619
+    }
+   ],
+   "match": "Szczytniańska / Krakowska 03",
+   "lon": 22.662744,
+   "lat": 50.017619,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Szczytniańska Rondo",
+   "key": "szczytnianska rondo",
+   "pages": [
+    9,
+    10,
+    17,
+    19
+   ],
+   "lines": [
+    "15",
+    "9"
+   ],
+   "dep": 35,
+   "platforms": [
+    {
+     "name": "Szczytniańska Rondo 01",
+     "lon": 22.645207,
+     "lat": 50.01464
+    }
+   ],
+   "cands": [
+    {
+     "name": "Szczytniańska Rondo 01",
+     "s": 1.0,
+     "lon": 22.645207,
+     "lat": 50.01464
+    },
+    {
+     "name": "Szczytniańska / Krakowska 03",
+     "s": 0.548,
+     "lon": 22.662744,
+     "lat": 50.017619
+    },
+    {
+     "name": "Szczytniańska Wiadukt 02",
+     "s": 0.542,
+     "lon": 22.653666,
+     "lat": 50.015684
+    },
+    {
+     "name": "Szczytniańska Cmentarz 01",
+     "s": 0.533,
+     "lon": 22.645111,
+     "lat": 50.016614
+    },
+    {
+     "name": "Pełkińska Rondo 03",
+     "s": 0.49,
+     "lon": 22.675797,
+     "lat": 50.023105
+    }
+   ],
+   "match": "Szczytniańska Rondo 01",
+   "lon": 22.645207,
+   "lat": 50.01464,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Szczytniańska Wiadukt",
+   "key": "szczytnianska wiadukt",
+   "pages": [
+    17,
+    19
+   ],
+   "lines": [
+    "15"
+   ],
+   "dep": 15,
+   "platforms": [
+    {
+     "name": "Szczytniańska Wiadukt 02",
+     "lon": 22.653666,
+     "lat": 50.015684
+    }
+   ],
+   "match": "Szczytniańska Wiadukt 02",
+   "lon": 22.653666,
+   "lat": 50.015684,
+   "score": 1.0,
+   "how": "alias"
+  },
+  {
+   "pdf": "Szkoła",
+   "key": "szkola",
+   "pages": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lines": [
+    "8"
+   ],
+   "dep": 33,
+   "platforms": [
+    {
+     "name": "Szkoła Podstawowa nr 7",
+     "lon": 22.680691,
+     "lat": 50.044299
+    }
+   ],
+   "cands": [
+    {
+     "name": "Zamkowa 01",
+     "s": 0.308,
+     "lon": 22.691375,
+     "lat": 50.018786
+    },
+    {
+     "name": "Szówsko",
+     "s": 0.308,
+     "lon": 22.716936,
+     "lat": 50.025671
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.286,
+     "lon": 22.740079,
+     "lat": 49.897122
+    },
+    {
+     "name": "Skołoszów",
+     "s": 0.267,
+     "lon": 22.809433,
+     "lat": 49.932204
+    },
+    {
+     "name": "Łazy kościół",
+     "s": 0.222,
+     "lon": 22.873453,
+     "lat": 49.991259
+    }
+   ],
+   "match": "Szkoła Podstawowa nr 7",
+   "score": 0.308,
+   "how": "placed",
+   "lon": 22.680691,
+   "lat": 50.044299,
+   "source": "school"
+  },
+  {
+   "pdf": "Szwaby",
+   "key": "szwaby",
+   "pages": [
+    11,
+    12
+   ],
+   "lines": [
+    "10"
+   ],
+   "dep": 20,
+   "platforms": [
+    {
+     "name": "miejscowość Szwaby",
+     "lon": 22.663889,
+     "lat": 50.065833
+    }
+   ],
+   "cands": [
+    {
+     "name": "Sanowa Bulwary 02",
+     "s": 0.25,
+     "lon": 22.708017,
+     "lat": 50.02097
+    },
+    {
+     "name": "Kaszyce",
+     "s": 0.231,
+     "lon": 22.740369,
+     "lat": 49.905081
+    },
+    {
+     "name": "Zamkowa 01",
+     "s": 0.231,
+     "lon": 22.691375,
+     "lat": 50.018786
+    },
+    {
+     "name": "Szówsko",
+     "s": 0.231,
+     "lon": 22.716936,
+     "lat": 50.025671
+    },
+    {
+     "name": "Olszynka",
+     "s": 0.214,
+     "lon": 22.740079,
+     "lat": 49.897122
+    }
+   ],
+   "match": "miejscowość Szwaby",
+   "score": 0.25,
+   "how": "placed",
+   "lon": 22.663889,
+   "lat": 50.065833,
+   "source": "place:szwaby"
+  },
+  {
+   "pdf": "Tarnowskiego",
+   "key": "tarnowskiego",
+   "pages": [
+    13,
+    15,
+    17,
+    19
+   ],
+   "lines": [
+    "14",
+    "15"
+   ],
+   "dep": 32,
+   "platforms": [
+    {
+     "name": "Tarnowskiego 01",
+     "lon": 22.69115,
+     "lat": 50.018493
+    }
+   ],
+   "cands": [
+    {
+     "name": "Tarnowskiego 01",
+     "s": 1.0,
+     "lon": 22.69115,
+     "lat": 50.018493
+    },
+    {
+     "name": "Stanowisko 1",
+     "s": 0.364,
+     "lon": 22.5508,
+     "lat": 50.044608
+    },
+    {
+     "name": "Poniatowskiego 01",
+     "s": 0.346,
+     "lon": 22.683678,
+     "lat": 50.012859
+    },
+    {
+     "name": "Bandurskiego 01",
+     "s": 0.333,
+     "lon": 22.671574,
+     "lat": 50.021782
+    },
+    {
+     "name": "Strzelecka / Limanowskiego 02",
+     "s": 0.306,
+     "lon": 22.664592,
+     "lat": 50.003988
+    }
+   ],
+   "match": "Tarnowskiego 01",
+   "lon": 22.69115,
+   "lat": 50.018493,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Zamkowa",
+   "key": "zamkowa",
+   "pages": [
+    14,
+    16,
+    18,
+    20
+   ],
+   "lines": [
+    "14",
+    "15"
+   ],
+   "dep": 32,
+   "platforms": [
+    {
+     "name": "Zamkowa 01",
+     "lon": 22.691375,
+     "lat": 50.018786
+    }
+   ],
+   "cands": [
+    {
+     "name": "Zamkowa 01",
+     "s": 1.0,
+     "lon": 22.691375,
+     "lat": 50.018786
+    },
+    {
+     "name": "Krakowska Rondo 03",
+     "s": 0.227,
+     "lon": 22.640083,
+     "lat": 50.024194
+    },
+    {
+     "name": "Zbożowa PZZ 01",
+     "s": 0.222,
+     "lon": 22.718767,
+     "lat": 49.999588
+    },
+    {
+     "name": "Zasanie",
+     "s": 0.214,
+     "lon": 22.856608,
+     "lat": 49.957745
+    },
+    {
+     "name": "Szówsko",
+     "s": 0.214,
+     "lon": 22.716936,
+     "lat": 50.025671
+    }
+   ],
+   "match": "Zamkowa 01",
+   "lon": 22.691375,
+   "lat": 50.018786,
+   "score": 1.0,
+   "how": "exact"
+  },
+  {
+   "pdf": "Zwierzyniecka",
+   "key": "zwierzyniecka",
+   "pages": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "lines": [
+    "14"
+   ],
+   "dep": 16,
+   "platforms": [
+    {
+     "name": "Zwierzyniecka 01",
+     "lon": 22.696173,
+     "lat": 50.030735
+    }
+   ],
+   "match": "Zwierzyniecka 01",
+   "lon": 22.696173,
+   "lat": 50.030735,
+   "score": 1.0,
+   "how": "alias"
+  }
+ ],
+ "osm_unused": [
+  "Budowlanych",
+  "Bystrowice",
+  "Bystrowice - Parcelacja",
+  "Ciemięrzowice",
+  "DPS Moszczny",
+  "Gorliczyńska PST",
+  "Gorliczyńska Skrzyżowanie",
+  "Kaszyce",
+  "Kidałowice",
+  "Krasickiego",
+  "Kółko rolnicze",
+  "Leżachów Osada Świetlica 08",
+  "Manasterz",
+  "Misztale 02",
+  "Misztale Pętla 03",
+  "Mokra",
+  "Mokra - Jankowice",
+  "Olszynka",
+  "Osiedle Łazy",
+  "Ostrów",
+  "Piekarska 01",
+  "Plac Mickiewicza",
+  "Pruchnicka 06",
+  "Przeworsk MOK",
+  "Przeworsk PKP",
+  "Radymno Cmentarz",
+  "Radymno Jana Pawła II",
+  "Radymno Osiedle",
+  "Radymno Rynek",
+  "Roźwienica",
+  "Roźwienica-Słomianka",
+  "Skołoszów",
+  "Stanowisko 1",
+  "Stanowisko Flixbus",
+  "Szówsko",
+  "Tuczempy Kwiatowa",
+  "Tyniowice",
+  "Wierzbna",
+  "Węgierska",
+  "Zabłotce",
+  "Zasanie",
+  "Łazy kościół",
+  "Łowce"
+ ]
+}

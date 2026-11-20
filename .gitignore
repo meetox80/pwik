@@ -1,0 +1,9 @@
+local.properties
+.gradle/
+.kotlin/
+build/
+*.iml
+.idea/
+.venv/
+*.osm.pbf
+data/*.pdf

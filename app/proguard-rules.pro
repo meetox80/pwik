@@ -1,0 +1,6 @@
+-dontwarn org.jetbrains.annotations.**
+-dontwarn com.gemalto.jp2.**
+-dontwarn org.bouncycastle.**
+-dontwarn javax.annotation.**
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile

@@ -1,0 +1,12 @@
+PWiK publishes the Jarosław city bus timetable as one long PDF table. This app downloads that PDF from the PWiK website and turns it into a journey planner: pick where you're going and it tells you which bus to take, where to catch it and when to leave.
+
+<ul>
+<li><b>Journey planner</b>: start from where you are, a stop, a street or any spot on the map. Direct buses and transfers, walking included, with a "leave in 12 min" countdown that keeps itself current.</li>
+<li><b>Departure boards</b>: every bus from a stop for today, tomorrow or any date you pick. Filter by line to see only the one you take.</li>
+<li><b>Network map</b>: every stop and route on one map. Pick a line to see only its route, tap a stop for its next departures.</li>
+<li><b>Your stops first</b>: search opens with the stops and places you actually use, not a fixed list.</li>
+<li><b>Works offline</b>: the map of Jarosław and the nearby villages is built in, and the timetable stays on the phone after the first download. Once a month the app checks the PWiK website for a new one by itself.</li>
+<li><b>Knows the school year</b>: trips that only run on school days or in the summer show up on the right days, holidays and the Podkarpackie winter break included.</li>
+</ul>
+
+Not an official PWiK app. Timetable © PWiK Sp. z o.o. w Jarosławiu. Map data © OpenStreetMap contributors, ODbL.

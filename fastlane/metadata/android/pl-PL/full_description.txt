@@ -1,0 +1,12 @@
+PWiK publikuje rozkład jazdy autobusów miejskich w Jarosławiu jako jedną długą tabelę w PDF. Aplikacja pobiera ten plik ze strony PWiK i zamienia go w planer podróży: wybierasz, dokąd jedziesz, a ona podpowiada, którym autobusem, z którego przystanku i kiedy wyjść z domu.
+
+<ul>
+<li><b>Planer podróży</b>: start z miejsca, w którym jesteś, z przystanku, ulicy albo dowolnego punktu na mapie. Połączenia bezpośrednie i z przesiadkami, razem z dojściem pieszo, oraz odliczanie „wyjdź za 12 min”, które samo się aktualizuje.</li>
+<li><b>Tablice odjazdów</b>: wszystkie autobusy z przystanku na dziś, jutro albo dowolny wybrany dzień. Filtr linii pokazuje tylko tę, którą jeździsz.</li>
+<li><b>Mapa przystanków</b>: wszystkie przystanki i trasy na jednej mapie. Wybierz linię, żeby zobaczyć tylko jej trasę, albo stuknij przystanek, żeby zobaczyć najbliższe odjazdy.</li>
+<li><b>Twoje przystanki na początku</b>: wyszukiwarka zaczyna od przystanków i miejsc, z których naprawdę korzystasz, a nie od stałej listy.</li>
+<li><b>Działa offline</b>: mapa Jarosławia i okolicznych miejscowości jest wbudowana, a rozkład po pierwszym pobraniu zostaje w telefonie. Raz w miesiącu aplikacja sama sprawdza, czy na stronie PWiK jest nowy.</li>
+<li><b>Zna kalendarz szkolny</b>: kursy tylko w dni nauki szkolnej albo tylko w wakacje pokazują się we właściwe dni, z uwzględnieniem świąt i ferii zimowych na Podkarpaciu.</li>
+</ul>
+
+To nieoficjalna aplikacja, nie jest wydawana przez PWiK. Rozkład jazdy © PWiK Sp. z o.o. w Jarosławiu. Dane mapy © współtwórcy OpenStreetMap, licencja ODbL.
